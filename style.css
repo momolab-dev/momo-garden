@@ -6,6 +6,9 @@
     }
     h2{
         text-align:center;
+        color:#d46a92;
+        margin-bottom:20px;
+        text-shadow:2px 2px 8px rgba(255,182,193,0.5);
     }
     body{
         background-color:#FFF5F7;
