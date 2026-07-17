@@ -9,6 +9,10 @@
         color:#d46a92;
         margin-bottom:20px;
         text-shadow:2px 2px 8px rgba(255,182,193,0.5);
+        transition:color 0.3s;
+    }
+    h2:hover{
+        color:hotpink;
     }
     body{
         background-color:#FFF5F7;
