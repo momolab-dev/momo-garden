@@ -66,3 +66,22 @@
       color:#888;
       font-size:14px;
    }
+   .quick-links{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+   } 
+   .card{
+    width:200px;
+    background:white;
+    padding:20px;
+    border-radius:16px;
+    text-decoration:none;
+    color:#444;
+    box-shadow:0 4px 10px rgba(0,0,0,0.08);
+    text-align:center;
+   }
+   .card:hover{
+    transform:translateY(-5px);
+    background:#fff0f6;
+   }
