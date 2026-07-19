@@ -87,3 +87,7 @@
     transform:translateY(-5px);
     background:#ffeef5;
    }
+   h1,
+h2 {
+    font-family: "Playfair Display", serif;
+}
