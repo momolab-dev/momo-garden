@@ -70,9 +70,10 @@
     display:flex;
     flex-wrap:wrap;
     gap:20px;
+    width:100%;
    } 
    .card{
-    width:calc((100% - 40px) / 3);
+    flex: 0 0 calc((100% - 60px) / 3);
     box-sizing:border-box;
     background:white;
     padding:30px 20px;
